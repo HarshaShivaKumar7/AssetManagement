@@ -1,0 +1,21 @@
+
+# production
+/build
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore generated package lock file
+package-lock.json
+
+# Ignore public directory (if needed)
+public/
+
+# Ignore .babelrc file
+.babelrc
+
+# Ignore craco config file
+craco.config.js
+
+# Ignore jsconfig file
+jsconfig.json
