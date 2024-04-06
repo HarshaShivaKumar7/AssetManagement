@@ -20,24 +20,21 @@ Welcome to the Asset Management System project! This system aims to provide a co
 4. Install dependencies by running `npm install`.
 5. Run the setup script with `npm setup`.
 
-### Frontend Setup
+## Setup frontend
 
-1. Navigate to the `frontend` directory.
-2. Install frontend dependencies with `npm install`.
-3. Update the API configuration in `src/frontend/src/config/serverApiConfig.js` to point to localhost.
+1. cd frontend
+2. npm install
+3. change api config to loaclhost in this : src/frontend/src/config/serverApiConfig.js
 
-### Running the Server
+## start server
 
-1. To start the backend server, run `npm start`.
-2. To launch the React app, navigate to the `frontend` directory and run `npm start`.
+1. npm start
 
-## Credentials
+## start react app
 
-- **Username:** admin@demon.com
-- **Password:** admin123
+1. cd frontend
+2. npm start
 
-Feel free to explore the system and manage your assets efficiently!
+```
 
----
-
-**Note:** This README provides a basic overview of the setup process. Make sure to customize it further according to your project's specific requirements and guidelines.
+```
